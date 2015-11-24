@@ -10,8 +10,7 @@ import java.util.Scanner;
  * @author PlayBoy
  */
 public class Timus_1000 {
-    
-    
+   
 
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
